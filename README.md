@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm MD ABDUR RAHMAN SHOAIB</h1>
-<h3 align="center">A passionate frontend developer from Dhaka, Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5hoaib21&label=Profile%20views&color=0e75b6&style=flat" alt="5hoaib21" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_5hoaib21" target="blank"><img src="https://img.shields.io/twitter/follow/_5hoaib21?logo=twitter&style=for-the-badge" alt="_5hoaib21" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_5hoaib21" target="blank"><img src="https://img.shields.io/twitter/follow/_5hoaib21?logo=twitter&style=for-the-badge" alt="_5hoaib21" /></a> </p><img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" alt="codingGif">
+<h1 align="center">Hi 👋, I'm MD ABDUR RAHMAN SHOAIB</h1>
+<h3 align="center">A passionate frontend developer from Dhaka, Bangladesh</h3>
+
+
 
 - 🌱 I’m currently learning **Next.js**
 
